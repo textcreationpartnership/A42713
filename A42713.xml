@@ -1,0 +1,411 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A false witness examin'd and rebuk'd, and the stedfast, sincere obedience of the people called Quakers, unto Christ Jesus, their souls captain bishop and high-priest, asserted and vindicated : being an answer to a book, entituled, A declaration concerning the people called Quakers, &amp;c., given forth by I know not who, there is subscribed to the said book, Christidulus Ecclestion, but whether this be the name of the author, or only a feigned name, is a question but I do not know the author by that name, nor do I hear of any that doth, neither did I ever know any man or woman by that name / by ... Wilson Gibson.</title>
+            <author>Gibson, William, 1629-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 56 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42713</idno>
+            <idno type="STC">Wing G683</idno>
+            <idno type="STC">ESTC R9682</idno>
+            <idno type="EEBO-CITATION">12590249</idno>
+            <idno type="OCLC">ocm 12590249</idno>
+            <idno type="VID">63881</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42713)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63881)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 960:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A false witness examin'd and rebuk'd, and the stedfast, sincere obedience of the people called Quakers, unto Christ Jesus, their souls captain bishop and high-priest, asserted and vindicated : being an answer to a book, entituled, A declaration concerning the people called Quakers, &amp;c., given forth by I know not who, there is subscribed to the said book, Christidulus Ecclestion, but whether this be the name of the author, or only a feigned name, is a question but I do not know the author by that name, nor do I hear of any that doth, neither did I ever know any man or woman by that name / by ... Wilson Gibson.</title>
+                  <author>Gibson, William, 1629-1684.</author>
+               </titleStmt>
+               <extent>19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Declaration concerning the people called Quakers.</term>
+               <term>Society of Friends --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63881:1"/>
+            <pb facs="tcp:63881:1" rendition="simple:additions"/>
+            <p>A FALSE WITNESS EXAMIN'D and REBUK'D; AND THE Stedfaſt, Sincere Obedience Of the People called <hi>Quakers,</hi> unto CHRIST JESUS, Their Souls Captain, Biſhop and High-Prieſt, ASSERTED and VINDICATED: Being an Anſwer to a Book, entituled, <hi>A Declaration concerning the People called</hi> QUAKERS, <hi>&amp;c.</hi>
+            </p>
+            <p>Given forth by I know not <hi>Who:</hi> There is ſubſcribed to the ſaid Book, <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>HRISTOD<g ref="char:V">Ʋ</g>L<g ref="char:V">Ʋ</g>S ECCLESTONE;</hi> but whether this be the Name of the Author, or only a Feigned Name, is a Queſtion; But I do not know the Author by that Name, nor do I hear of any that doth, neither did I ever know any Man or Woman by that Name.</p>
+            <p>
+               <hi>By a Servant of Chriſt,</hi> William Gibſon.</p>
+            <q>For he ſaid, Surely they are my People, Children that will not Lye; ſo he was their Saviour, <bibl>
+                  <hi>Iſa. 63.8.</hi>
+               </bibl>
+            </q>
+            <q>—A faithful Witne<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> will not Lye, but a falſe Witneſs will utter Lyes, <bibl>
+                  <hi>Prov. 14 5.</hi>
+               </bibl>
+            </q>
+            <q>—Ye are of your Father the Devil, and the Luſt of your Father you will do. he was a Murderer from the beginning, and abode not in the Truth; when he ſpeaketh a Lye, he ſpe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>keth of his own, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r he is a Lya<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and the Father of it, <bibl>
+                  <hi>Joh. 8.44.</hi>
+               </bibl>
+            </q>
+            <q>—A falſe Wit<g ref="char:EOLhyphen"/>neſs ſhall not be unpuniſhed; and he that ſpeaketh Lyes ſhall not eſcape, <bibl>
+                  <hi>Prov. 19 5.</hi>
+               </bibl>
+            </q>
+            <q>—They bend their Tongues like their Bows for Lyes; but they are not valiant for the Truth, &amp;c. <bibl>
+                  <hi>Jer. 9.3.</hi>
+               </bibl>
+            </q>
+            <q>—His Lyes ſhall not ſo effect it, <bibl>
+                  <hi>Jer. 48.30.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:63881:2"/>
+            <pb n="3" facs="tcp:63881:2"/>
+            <head>The <hi>EPISTLE</hi> to the <hi>READER.</hi>
+            </head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>CHriſt Jeſus, in whoſe Mouth never Guile was found, hath ſaid, that <hi>God is a Spirit; and they that worſhip him, muſt worſhip him in the Spirit &amp; in Truth:</hi> And he hath ſaid, that <hi>No Lye is of the Truth:</hi> And the beloved Apoſtle <hi>John</hi> ſaid, <hi>God is Love; they that dwell in God, dwell in Love;</hi> and, <hi>he that loveth God, lovet. his Brother alſo:</hi>
+               <note place="margin">1 Cor. 13. read it through<g ref="char:EOLhyphen"/>out.</note> And another beloved Apoſtle ſaith, <hi>Love thinketh no Evil; it Envieth not; it doth not behave it ſelf Unſeemly: Love is the fulfilling of the Law,</hi> as it is written, <hi>Thou ſhalt love the Lord thy God with all thy Heart, and thy Neighbour as thy ſelf.</hi> God is that holy, immutable, infinite Spirit, whoſe Preſence fills Heaven &amp; Earth, who hath given Life and Being to all Mankind, and whom all ought to fear and ſerve with their Souls and Bodies, which are his: He is that immutable, holy Fountain, from whom all Good doth originally come; as <hi>Love, Meekneſs, Patience, Juſtice, Equity</hi> and <hi>Mercy,</hi> and all other Bleſſings and Mercies, whether spiritual or temporal, which the Sons of Men do enjoy. And this God, who is an infinite Spirit, he is near unto all Man<g ref="char:EOLhyphen"/>kind, to ſhew them what is Good, and what he requireth of them, that is, <hi>To do juſtly one to another, to Love Mercy;</hi> that is, to be Merciful, as he is Merciful: And this is he of whom the Prophet teſtified, ſaying, <hi>He that for<g ref="char:EOLhyphen"/>med the Mountains, and created the Winds, and ſhews unto man his Thoughts, the Lord of Hoſts is his Name:</hi>
+               <note place="margin">Amos 4.13.</note> And this is he of whom the Apoſtle teſtified, ſaying,<note place="margin">2 Cor. 4.6.</note> 
+               <hi>God hath ſhined in our Hearts to give us the Light of the Knowledge of the Glory of God in the Face of Jeſus Chriſt; and this Treaſure</hi> (ſays the Apoſtle) <hi>have we in Earthen Veſſels, that the Excellency of the Power may be of God, and not of us.</hi> Oh! happy are all they who are given up to follow and obey this holy Fountain of Love, Life, Joy, Peace, Juſtice and Mercy, &amp;c. for them will he fill with theſe heavenly Vertues, and bring them into his heavenly Like<g ref="char:EOLhyphen"/>neſs, in which man was made in the beginning.</p>
+            <p>But alas! there is another spirit, which hath gotten by <g ref="char:V">Ʋ</g>ſurpation the Rule and Government over many of the Sons and Daughters of Men,<note place="margin">Epheſ 2.2.</note> which the holy Apoſtle calls <hi>the Prince of the Power of the Air, who worketh in the Hearts of the Children of Diſobedience;</hi>
+               <note place="margin">2 Cor. 4.4.</note> and he is alſo called <hi>the God of the World, who hath blinded
+<pb n="4" facs="tcp:63881:3"/>the Minds of them that believe not (in the true God) This is he that lead man firſt from the true God:</hi> This is he that lead <hi>Cain</hi> to kill <hi>Abel, becauſe his own Works were Evil, and his Brother s Righteous:</hi> This is he that led the Old World into thoſe many provoaking Sins, which cauſed God to overthrow it; who preſerved <hi>Noah,</hi> that Preacher of Righteouſneſs, and did not deſtroy him with that <g ref="char:V">Ʋ</g>ngodly Generation: This is he that led the People of <hi>Sodom</hi> and <hi>Gomorrah</hi> into thoſe many Grievous Abominations for which God deſtroyed them with Fire from Heaven, but delivered juſt <hi>Lot,</hi> who was vexed with their <g ref="char:V">Ʋ</g>ngodly Converſation: This is he who led <hi>Pharaoh,</hi> King of <hi>Egypt,</hi> and his Task-Maſters to oppreſs the <hi>Iſrael</hi> of God, whom God delivered out of their Hands, and overthrew them in the <hi>Red Sea:</hi> This is he who Raigned in the Apoſtate <hi>Jews,</hi> who went from the Law of God, and made them mad againſt the Lord's Prophets, ſo that they put them to Death: This is he who led <hi>Judas</hi> to betray his Maſter for Thirty Pieces of Silver; and led <hi>Demas</hi> to forſake <hi>Paul</hi> in his Suffering, and to turn to the Evil World: This is he who ſet the Hypocritical Profeſſing <hi>Jews</hi> into a Rage againſt Chriſt Jeſus, the Right Heir, when he came amongſt them, and did the Mighty Works that never man did; they would not believe him, but ſaid, <hi>By</hi> Beelzebub, <hi>the Prince of Devils, he caſt out Devils:</hi> They spit upon him, he was crowned with Thorns, &amp; afterwards cruci<g ref="char:EOLhyphen"/>fied, whom God rais'd the third day, according to the Scriptures, and who is aſcen<g ref="char:EOLhyphen"/>ded and exalted at the Right Hand of the Majeſty on high, &amp;c. Theſe Profeſſing <hi>Jews</hi> were the chief Inſtruments againſt him, though they were aſſiſted in this work of Wick<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dneſs by the <hi>Gentiles:</hi> This is he who was thoſe Perſecutors Father, as Chriſt told them, <hi>You are of your Father the Devil</hi> (ſaith he) <hi>f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r the Works of your Father you do; for he was a Lyar &amp; a Murderer from the beginning: when he ſpeaks a Lye, he ſpeaketh of himſelf; for he is a Lyar, and the Father of it:</hi> And this is he who led the <hi>Heathens</hi> to Belye the Primitive <hi>Chriſtians,</hi> and their Principles, and to put them to Death: And this is he who hath led an hy<g ref="char:EOLhyphen"/>pocritical Generation of Profeſſors of <hi>Chriſtianity,</hi> who are in the Apoſtacy from the Life of Chriſt, to belye us and our Principles, and to perſecute us for our Obedience to Chriſt Jeſus, yea, even ſome of us to Death: <hi>Oh! that they might find a Place of Repentance, and obtain Forgiveneſs at the Hand of the Lord God:</hi> This is he who hath led this Author to Belye us and our Principles and Practices, as may be ſeen in the following Book: So as it is written, <hi>He that is born after the Fleſh, perſecutes him that is born after the Spirit; and they that will live God-like in Chriſt Jeſus, muſt ſuffer Perſecution; and Evil Men and Seducers wax worſe and worſe, deceiving and being deceived</hi> — Oh! Wo and Miſery will come upon all thoſe who continue unto the End of their Dayes in the Obedience unto this Lying and Murdering Spirit, which is the Original and firſt Cauſe of all Idolatry and falſe Worſhip, that is, and ever was upon
+<pb n="5" facs="tcp:63881:3"/>the Earth, and of all Sin that is and ever was committed againſt God and his Chriſt. Oh! that the Profeſſors of <hi>Chriſtianity</hi> in our time might ſee how they are led by him into Envy, Lyes and Slanders againſt the People called <hi>Quakers:</hi> Oh that they might come to ſee what a bad Maſter they ſerve: Our Deſires are, that they might forſake him, and believe in the Light, which Chriſt hath lighted them with, that ſo that might ſtay their Minds out of Evil, and exerciſe their Minds to God in that which is Good, that ſo they might come to know the Life of Chriſt made manifeſt in their mortal Fleſh, as the primitive <hi>Chriſtians</hi> did, and as a Remnant now do; for that is it that makes a real <hi>Chri<g ref="char:EOLhyphen"/>ſtian:</hi> and without that no man can be a real <hi>Chriſtian,</hi> though he profeſs all the good Words of God and Chriſt, the Prophets and Apoſtles, that are written in the holy Scriptures, and though he ſhould practiſe all the Shadows of the Heavenly Things, that were practiſed both under the Law and afterwards.</p>
+            <p>There is one conſiderable Reaſon to expect, that ſuch of the <hi>Confederate</hi>-Body of the ſeveral ſo<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of Profeſſors, who are in ſuch a great Out-rage againſt the People called <hi>Quakers,</hi> will not eſpouſe this Author, and his falſe <hi>Declaration</hi> into their <hi>Confederacy</hi> againſt the People called <hi>Quakers;</hi> the Reaſon is this; he ſaith in his Epiſtle, <hi>That the Light of Chriſt in every Man and Woman's Conſcience is the Way to God; and that there is no other Way under Hea<g ref="char:EOLhyphen"/>ven to attain Salvation.</hi>
+            </p>
+            <p>Now th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe Profeſſors having declared their implacable Envy againſt the <hi>Light within,</hi> how can they eſpouſe him and his <hi>Declaration</hi> into their <hi>Confede<g ref="char:EOLhyphen"/>racy</hi> againſt the aforeſaid People? But if they will agree to <hi>Perſecute, Belye</hi> and <hi>Slander</hi> the People called <hi>Quakers,</hi> notwithſtanding theſe their great and fundamental Differences amongſt themſelves, the People called <hi>Quakers</hi> are reſolved in the Strength and Power of the Lord Jeſus Chriſt, to bear and go through all their <hi>Reproaches, Lyes,</hi> and <hi>Slanders,</hi> and that with Chearfulneſs; eſteeming <hi>Reproaches</hi> for Chriſt's ſake far greater Riches then the fading Glory, Riches and Honour of this World; for this People have an Eye to a spiritual Recompence of Reward in the World to come; and this People endure Afflictions with Chearfulneſs, becauſe they ſee and feel the inviſible God to be their Sup<g ref="char:EOLhyphen"/>port; to him be all Glory, Praiſes and Honour, now and for evermore, <hi>Amen.</hi>
+            </p>
+            <p>
+               <hi>Take Counſel together, and it cometh to nought; ſpeak the Word, and it ſhall not ſtand; for God is with us. For the Lord ſpoak thus to me with a ſtrong Hand, and inſtructed Me, that I ſhould not walk in the Way of this People, ſaying, Say ye not a</hi> Confederacy <hi>to all them to whom this People ſhall ſay,</hi> A Confederacy, <hi>neither fear ye their Fear, nor be afraid; ſanctifie the Lord of Hoſts himſelf, and let him be your Fear, and let him be your Dread,</hi> Iſa. <hi>8.10, 11, 12, 13.</hi>
+            </p>
+            <closer>
+               <signed>William Gibſon.</signed>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>the 22th of the 9th Moneth, <hi>1674.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="6" facs="tcp:63881:4"/>
+            <head>A <hi>Falſe Witneſs</hi> Examined and Rebuked; and the Stedfaſt, Sincere <hi>Obedience</hi> of the People called <hi>Quakers,</hi> unto <hi>CHRIST JESUS,</hi> their Souls <hi>Captain, Biſhop</hi> and <hi>High-Prieſt,</hi> Aſſerted and Vindicated: Being an Anſwer to a Book, entituled, <hi>A Declaration concerning the People called</hi> Q<g ref="char:V">Ʋ</g>AKERS, &amp;c.</head>
+            <p>THis Author begins his Epiſtle to his Reader in the following words: <hi>I give thee to underſtand</hi> (ſaith he) <hi>that my Intent in publiſhing this Book, is not in the leaſt to Vilifie or <g ref="char:V">Ʋ</g>ndervalue that Principle which the People called</hi> Quakers, <hi>do preach and profeſs—or to draw thy Mind from it; But with Confidence do bear my Teſtimony to the Truth of it, &amp;c. to wit, That the Light of Chriſt in every Man's and Woman's Conſcience, which maketh manifeſt Darkneſs, and diſcovers Sin and Iniquity, is the Way to God; and that there is no other way under Heaven to attain Salvation. God is Light</hi> (ſaith he) <hi>and whoever comes to him, muſt come to him in his Light, &amp;c.</hi>
+            </p>
+            <p>To this I anſwer; Theſe fair Words might cauſe People to think, that this man is a great <hi>Friend to the LIGHT within,</hi> which the deſpiſed People (of God) called <hi>Quakers,</hi> do preach, bear witneſs to, and live and walk in; and alſo, to thoſe People who do ſo live and walk in the Light: But alas! it is quite contrary, as will appear in the latter part of his <hi>Epiſtle,</hi> and alſo in the following <hi>Book:</hi> For his Feigned Commendation of the <hi>Light,</hi> and bearing Teſtimony to it, doth and will appear unto the Children of Light to rile from the ſame Ground of Darkneſs and Envy, which theirs did whom the Apoſtle mentions, who <hi>did preach Chriſt of Envy,</hi> who <hi>through their preaching did deſign to add Afflictions to his Bonds,</hi> as he himſelf hath ſaid: That this man's Work of Darkneſs has the like Tendency, the Children of the Light do and will ſee, conſidering the <hi>Nature</hi> of it, as alſo the <hi>Time</hi> of its being
+<pb n="7" facs="tcp:63881:4"/>brought forth into the World, even in a Time, when the Rage and Fury, Combinations and <hi>Confederacies</hi> of divers ſorts of Profeſſors are great a<g ref="char:EOLhyphen"/>gainſt us, chiefly becauſe of our confeſſing to, and walking in the Eternal, Spiritual and Divine Light, wherewith God and Chriſt hath enlightened our inward Man.</p>
+            <p>This pretended Friend to the <hi>Light within,</hi> tells his Reader in the latter part of his Epiſtle, <hi>That the Selfiſh Serpent hath deceived the People call'd</hi> Qua<g ref="char:EOLhyphen"/>kers, <hi>of the Simplicity which God had brought them into</hi> (yea, ſaith he) <hi>even many of them which are accounted the Heads and Leaders of them, hath brought them again into Selfiſhneſs, Covetouſneſs, and Pride, and Fulneſs of Bread, &amp;c. ſo that now the Fleſh-pots of</hi> Egypt <hi>are more deſirable then the hidden Manna.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I do in the Preſence and Power of God charge this <hi>Author</hi> to be a <hi>Lyar.</hi> One <hi>Lye</hi> is, in <hi>Charging</hi> thoſe which he accounts <hi>Heads and Leaders, to have brought the People into Selfiſhneſs, Pride, Fulneſs of Bread, &amp;c.</hi> An<g ref="char:EOLhyphen"/>other <hi>Lye</hi> is, That the <hi>Fleſh-pots of</hi> Egypt <hi>are more deſired by us then the hid<g ref="char:EOLhyphen"/>den Manna:</hi> Another <hi>Lye</hi> which he chargeth upon thoſe he calls <hi>Heads and Leaders,</hi> is, that <hi>they claim Lordſhip and Dominion over the People, the Heri<g ref="char:EOLhyphen"/>tage of God; and ſo rob God of his Glory.</hi> There are more <hi>Lyes</hi> in his <hi>Epiſtle,</hi> but I paſs them for Brevity. This in brief in Anſwer to his <hi>Epiſtle.</hi>
+            </p>
+            <p>I having diligently read and conſider'd his following <hi>Book;</hi> I find that which is moſt notoriouſly <hi>Wicked,</hi> and therefore moſt worthy of my Notice to be in the latter part of his Book; and there I ſhall begin with him, and examin his Book backward ſo far as I eſteem it worthy of my Notice.</p>
+            <p>The firſt thing I ſhall take Notice of in his <hi>Book,</hi> is in <hi>Page</hi> 21. where he gives a Relation of <hi>Jeroboham</hi>'s ſetting up the Calves at <hi>Dan</hi> and <hi>Bethel,</hi> and of his Self-Intereſt in ſo doing, and how his ſo doing was a great Sin before God, and became a Snare to <hi>Iſrael.</hi>
+            </p>
+            <p>
+               <hi>So now amongſt this People</hi> (ſaith he) <hi>the Spirit of</hi> Jeroboham <hi>cryeth out, It is too much for you to worſhip God in a Teſtimony againſt Tythes; There is a Calf in</hi> Bethel, <hi>and another in</hi> Dan; <hi>There is a Meeting on Firſt, Second, Third, Fourth, Fifth and Sixth Dayes, Worſhip God there, and it is well enough.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Oh thou <hi>Lying, Preſumtuous, Scornful Spirit!</hi> The Lord rebuke thee, who compareſt the <hi>Meetings of the Lord's People,</hi> gathered by his own Spirit and Power, and eſtabliſhed in the ſame, to the <hi>Calves which</hi> Jeroboam <hi>ſet up at</hi> Dan <hi>and</hi> Bethel: Thou wouldſt inſinuate, <hi>That the People (of God) call'd</hi> Quakers, <hi>do count it too much to Worſhip God in a Teſtimony againſt</hi> Ty<g ref="char:EOLhyphen"/>thes, <hi>and that they have denied their Teſtimony therein which they bare formerly.</hi> In this thou art notoriouſly <hi>Wicked;</hi> for if thou haſt taken notice of this People <hi>for</hi> 18 <hi>or</hi> 20 <hi>Years,</hi> as thou ſignifieſt in thy Book, I conclude thou canſt not be
+<pb n="8" facs="tcp:63881:5"/>ignorant that theſe People have and doſuffermuch, both in <hi>Spoil of Goods, and Inpriſonment of Body, yea ſeveral even until Death,</hi>
+               <note place="margin">There are at this Day many of the People call'd Quakers, Priſoners in the ſeveral Priſons in and about London, and in the ſeveral Counties of England, becauſe they cannot in good Conſcience give Tythes and Offer<g ref="char:EOLhyphen"/>ings unto the Prieſts and others who demand them. Claiſt being come who hath ended them by offering up himſelf once for all, who is the one Offering, Hebr. 10.10, 14. Read the Chapter throughout.</note> 
+               <hi>in a Teſtimony for God againſt Tythes.</hi> Divers of thoſe Peo<g ref="char:EOLhyphen"/>ple are brought up <hi>Priſoners</hi> to <hi>London</hi> from forreign parts of the Nation; and in many Counties of <hi>England,</hi> theſe People at this Day lay in Priſon and have layn long in a Teſtimony for God <hi>againſt Tythes.</hi> Divers <hi>Books</hi> have been given forth by ſeveral of theſe People in Teſtimony <hi>againſt Tythes,</hi> which have been generally received and owned by theſe People; One by that faithful Servant of Chriſt <hi>Francis How<g ref="char:EOLhyphen"/>gill,</hi> who hath faithfully ended his Travails and Sufferings upon Earth, and is entered into the Heavenly Paradyſe and Kingdom of God, where he doth poſſeſs that Eternal Crown, and inherit that Eternal Peace and Joy which ne<g ref="char:EOLhyphen"/>ver ſhall have End, which God, the Righteous Judge, laid up for him; who hath the like ſpiritual Pleſſings in Store for all that love his Appearance, and abide in Faithfulneſs to him to the End. There are alſo ſeveral other <hi>Books</hi> given forth <hi>againſt Tythes;</hi> one lately, intitul'd, <hi>Tythes <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ded by Chriſt.</hi>
+            </p>
+            <p>This reviling Author in the Page aforeſaid proceeds after his former Man<g ref="char:EOLhyphen"/>ner, ſaying, <hi>It is too much for you to worſhip God in a Teſtimony againſt the Obſervation of Dayes; what need you to run the Hazard of your Eſtates and Libe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ties? there is a Calf at</hi> Bethel <hi>and another at</hi> Dan; <hi>there is a Meeting on 1ſt, 2d, 3d, 4th, 5th &amp; 6th Dayes,</hi> &amp;c.</p>
+            <p>Herein he would inſinuate, that the People called <hi>Quakers,</hi> have denyed their Teſtimony which they formerly bore againſt the <hi>Obſervation of Dayes:</hi> This Wickedneſs is like the former; for if he be a Perſon ſo well acquainted with us, as he pretends, he cannot be Ignorant, that the People called <hi>Qua<g ref="char:EOLhyphen"/>k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs,</hi> do continue their Teſtimony againſt the <hi>Obſervation of Dayes,</hi> for which ſome have lately been impriſoned, and many have had their Goods ſpoiled, and ſuffered divers other Wrongs for this their faithful Teſtimony; and whe<g ref="char:EOLhyphen"/>ther he know this or not, yet the Thing is true.</p>
+            <p>This Author goes on in the Page aforeſaid, after his former ſlanderous Manner, and ſaith, <hi>It is too much for you to worſhip God in a Teſtimony againſt the World's Worſhip and their Prieſts, &amp;c. There is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Calf at</hi> Bethel <hi>and ano<g ref="char:EOLhyphen"/>ther in</hi> Dan; <hi>there is a Meeting on 1ſt, 2d, 3d, 4th, 5th &amp; 6th Dayes, &amp;c.</hi>
+            </p>
+            <p>In this his Wickedneſs is very notorious; for who is it that knows not that we continue our Teſtimony againſt that which is <hi>Evil in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Prieſts, and their Worſhip;</hi> the <hi>Prieſts</hi> them elves may be <hi>Witneſſes</hi> againſt him in this that <hi>he
+<pb n="9" facs="tcp:63881:5"/>is a Lyar;</hi> I am aſſured, that the <hi>Prieſts</hi> would be glad if he ſaid the Truth of us in this matter.</p>
+            <p>He goes on in the page aforeſaid after his former Manner, and ſaith, <hi>It is too much for you to worſhip God in a Teſtimony againſt the ſending in of</hi> Arms, <hi>wherewith they ſlay and ſhed the Blood of Men; there is a Calf at</hi> Bethel <hi>and another in</hi> Dan; <hi>there is Meetings on 1ſt, 2d, 3d, 4th, 5th &amp; 6th Dayes, &amp;c.</hi>
+            </p>
+            <p>Here after his former manner he would make People believe, if he could, that we have denyed our former Teſtimony againſt <hi>Wars</hi> and <hi>Fighting,</hi> which ariſe from men's Luſt: But herein the <hi>Magiſtrates</hi> themſelves may bear witneſs againſt him, who have given out <hi>Warrants</hi> for the diſtraining of the Goods of the People called <hi>Quakers,</hi> for not appearing with, or ſending in <hi>Arms,</hi> according to the Laws in thoſe Cauſes made; and the <hi>Bailiffs</hi> and un<g ref="char:EOLhyphen"/>der Officers, who have diſtrained upon our Friends Goods for the Cau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e a<g ref="char:EOLhyphen"/>foreſaid, may witneſs againſt him alſo.</p>
+            <p>He yet proceeds further in his Wickedneſs in the page afore-ſaid, after his former manner, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aying, <hi>It is <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> for you to worſhip God in a Teſtimony againſt</hi> Pride, Covetouſneſs, Fulneſs of Bread, &amp;c. <hi>there is a Calf at</hi> Bethel <hi>and another in</hi> Dan; <hi>there is Meetings m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt dayes in the Week, &amp;c.</hi>
+            </p>
+            <p>To this I anſwer this Ungodly Slanderer, thus; It is too much for us to do any thing that is Good of our ſelves, becauſe of our ſelves we can do nothing that is Good; but through Chriſt Jeſus, the Lord of Life, the People called <hi>Quakers</hi> have been raiſed up to worſhip God in a Teſtimony againſt <hi>Pride, Covetouſneſs, Fulneſs of Bread,</hi> and many other <hi>Abominations:</hi> And this People hath not only been raiſed up through Chriſt to worſhip God, as afore<g ref="char:EOLhyphen"/>ſaid, but they are upheld to this day by Chriſt in their Teſtimony againſt <hi>Pride, Covetouſneſs, Envy, Murder, Lying, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tealing, Drunkenneſs, Whoredom, Idola<g ref="char:EOLhyphen"/>try,</hi> and all manner of Ungodlineſs; Glory, Glory to the Lord God for the ſame: And as the holy Apoſtle ſaid, ſo the People called <hi>Quakers</hi> do expe<g ref="char:EOLhyphen"/>rimentally ſay, that <hi>Of themſelves they can do nothing that is good;</hi> but as he ſaid, <hi>I can do all things through Chriſt that ſtrengthens me;</hi> ſo there is a Rem<g ref="char:EOLhyphen"/>nant can ſay at this day, for which they give Praiſe and Glory to God, who is worthy of the ſame for evermore.</p>
+            <p>In the latter end of the 20th page, and beginning of the 21th, this Reviling Author charges the People called <hi>Quakers</hi> to have <hi>bound them<g ref="char:EOLhyphen"/>ſelves with a Bond of Covetouſneſs,</hi> and alſo ſaith, <hi>That the Old, Subtil, Proud, Covetous Serpent hath got ſuch a Head &amp; Dominion over the People call'd</hi> Qua<g ref="char:EOLhyphen"/>kers, <hi>that hardly one of them dare ſpeak the Truth of him, though they ſee it never ſo evident.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> To this Great Slander I anſwer, The <hi>Devil is a Lyar, and the Fa<g ref="char:EOLhyphen"/>ther of all Lyes and Lyars,</hi> and ſo hath begotten this Lying Spirit in this Au<g ref="char:EOLhyphen"/>thor;
+<pb n="10" facs="tcp:63881:6"/>ſo the Lying Spirit muſt inherit the Lake with its Father: I could be glad that this Lying Spirit might be caſt out of this Author by Chriſt Jeſus, the true Light and Life of men, before his dayes be ended in this World, that ſo his Soul might live in Peace with God in the World to come. This Au<g ref="char:EOLhyphen"/>thor is outwardly a Stranger to me; but who ever he be, I exhort him to Repent of his Envy, and Lyes and Slanders, which he hath caſt upon the Peo<g ref="char:EOLhyphen"/>ple of God called <hi>Quakers;</hi> and if he do not ſuddainly ceaſe from ſuch evil Work as this, and Repent unfeignedly, that Miſery will come upon him, which is hard to expreſs in words, and not only upon him, but alſo upon all ſuch Workers in Darkneſs as he is, who Repent not: And I tell him, That God Almighty hath raiſed that Nobility and Courage in Thouſands of the People called <hi>Quakers,</hi> wherein they are bold at this day to ſpeak againſt the Old, Subtil, Proud; Envious, Covetous, Lying Serpent; God hath gi<g ref="char:EOLhyphen"/>ven them a ſpiritual Bow and a ſpiritual Quiver full of Arrows, and hath made their Arms ſtrong, and given them a skilful Hand to ſhoot at him in Myſtery <hi>Babylon,</hi> where he is King over all Lyars, Slanderers and Falſe Witneſſes, who riſe up againſt God and his People, and Chriſt and his Followers, but who do not agree in their Falſe Witneſs againſt Chriſt and his Followers, but like the Falſe Witneſſes of old, are confounded in their Work: The Boldneſs and Courage, which God hath raiſed in the deſpiſed People called <hi>Quakers,</hi> to teſtifie againſt the Devil, Dragon and Serpent, and againſt all ſorts of his Works and Work-Folks, this hath made him to Page and Fret, as he doth at this day, in his divers ſorts of Work Folks; but notwithſtanding his great working and raging in his Work Folks, yet the Lamb and the Saints muſt have the Victory over him and his Army.</p>
+            <p>In pag. 17, 18. this Slanderer and Envious Buſie-B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy ſaith, <hi>That theſe</hi> whom he calls-<hi>Heads and Leaders, have brought themſelves into a Church-Or<g ref="char:EOLhyphen"/>der and Fellowſhip, and as other Sects and Heaps of Religions have divided the Countries into Provinces, Dioceſes and Pariſhes, and every Particular Pla<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> his reſpective Officers as</hi> Arch-Biſhops, Biſhops, Arch-Deacons <hi>and</hi> Deacons, <hi>and every inferiour Officer to give Submiſſion to his Superiors, and that Submiſſion and Obedience of the Commonality to them all, as their Heads: Thus by Degrees</hi> (ſaith he) <hi>they got Lordſhip, and Maſterſhip and Dominion over the People, and brought People to a Conformity by Force and Rigour.</hi>
+            </p>
+            <p>He further adds Lye upon Lye, ſaying, <hi>That this People have One in every Liberty, who hath the Supremacy and Maſterſhip over the inferior Officers, to whom they yield their Submiſſion and Obedience; and ſo every one according to his Degree and Office hath his Degree of Rule and Seal of Maſterſhip, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Oh thou Ungodly Perſon! How doſt th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u throw forth thy Fardels of Lyes and Slanders againſt the Heritage of the Lord, and thereby manifeſts
+<pb n="11" facs="tcp:63881:6"/>thy ſelf to be void of the true Fear of God? I do tell thee, that I do not remember that I have ever read any Pamphlet of any Apoſtate, <hi>Judas</hi> or <hi>De<g ref="char:EOLhyphen"/>mas,</hi> or any other Enemy of God and his People, that hath fardell'd up ſo many Lyes and Slanders in ſo little room, as thou haſt done; all which are for the Lake, with the Father of them. Thou pretendeſt thou haſt known this People about Eighteen or Twenty Years; and alſo ſignifieſt, thou <hi>knewſt their Coming forth, and haſt taken Notice of their Proceedings till this time:</hi> And if ſo, thou art under the greater Guilt and Condemnation, for giving ſuch a falſe Teſtimony or Declaration of them, as thou haſt done; for if thou haſt known them, and beholden their Order, as thou pretendeſt, it muſt needs be, thou lyeſt againſt thy own Conſcience, and abuſeſt thy own Un<g ref="char:EOLhyphen"/>derſtanding, in ſpeaking of them (through Malice) that which thou muſt needs know to be falſe. I now tell thee, I have known this People above the ſpace of Twenty Years, and have had my Converſation amongſt them, and born my Teſtimony for the Lord amongſt them, according to the Ability which I have received from him, above the ſpace of Eighteen Years; and I have good Cauſe to believe, that I have known and do know this Peo<g ref="char:EOLhyphen"/>ple better then thou doſt, having been converſant with them, both in their publick and private Meetings ſo many years, and that from Eaſt to Weſt, from North to South of this Iſland, and elſe where alſo; and I do tell thee, that the before-cited words of thine are all falſe, wicked and ſlanderous; for there is not many Maſters or Lords amongſt us, as thou wickedly endea<g ref="char:EOLhyphen"/>voureſt to inſinuate; but one is our Lord and Maſter, even Chriſt Jeſus, the Son of the Living God; and we are all Brethren, ſome Elder, ſome Younger, according as the Lord hath pleaſed to call and raiſe us up; and our Lord and Maſter hath cloathed, and is daily more and more cloathing of us with the Gar<g ref="char:EOLhyphen"/>ments of Humility and true Love, in which we ſerve him with Chearfulneſs, and one another in the ſame Love: And I tell thee, we have found Peace in learning Humility of our Lord and Maſter, and in coming to the fulfilling of the Apoſtle's Doctrine, who ſaid, <hi>Be ye all cloathed with Humility, and ſerve one another in Love;</hi> and who ſaid, <hi>Submit your ſelves one to another in the Fear of God.</hi>
+            </p>
+            <p>And whereas this Slanderous Author ſaith, Thoſe whom he calls <hi>Heads, &amp;c. have by FORCE and RIGO<g ref="char:V">Ʋ</g>R brought this People called</hi> Quakers <hi>in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o a Conformity unto them.</hi>
+            </p>
+            <p>This is alſo notoriouſly wicked and ſlanderous, as many Thouſands of thoſe People can from true Experience teſtifie, and I know would readily do it to the Face of this Author, if they knew him, and had Time and Place conve<g ref="char:EOLhyphen"/>nient for it; and they have this Teſtimony in their Hearts on the behalf of thoſe whom God hath raiſed up to labour amongſt them in preaching the Go<g ref="char:EOLhyphen"/>ſpel,
+<pb n="12" facs="tcp:63881:7"/>That they have not been, nor ſought to be Lords over the Faith which God hath freely given them; but on the contrary, have been Fellow-Helpers of their Joy.</p>
+            <p>And whereas this Author ſaith, <hi>The Heads, &amp;c. have divided the Country into Provinces, Dioceſes and Pariſhes.</hi>
+            </p>
+            <p>That is falſe and ſlanderous: The Lord God, who is a God of Order in all the Churches (and not of Confuſion) hath raiſed up a People to worſhip him in Spirit and Truth in the ſeveral Counties of this Iſland; and they have been ordered by him who hath gathered them to provide convenient Pla<g ref="char:EOLhyphen"/>ces to meet in to wait upon him, and at ſuch Places God hath ordered them in his Wiſdom to meet together upon ſeveral Occaſions, wherein he hath laid a Concern and Care upon them, as particularly to take Care for Relief for their Poor Brethren and Siſters, Widdows and Fatherleſs Children, and Priſoners and Strangers, and divers other Services of Love, which he calls for at their Hands.</p>
+            <p>This buſie ill-minded Author is troubled at our Meetings, wherein the Lord hath ordered us by his pure Wiſdom, to take Care that ſuch who profeſs the Truth amongſt us, may walk Orderly, as becomes the Goſpel, that ſo whatſoever we do, whether Eat or Drink, Buy or Sell, Marry or give in Marriage, we may do all to the Praiſe and Glory of God, as being led and governed in all theſe things by the good Spirit of God.</p>
+            <p>In the 19th page he ſaith, <hi>The chief Man or</hi> Metropolitan <hi>with the El<g ref="char:EOLhyphen"/>ders and Deacons, &amp;c. do aſſemble themſelves together to hear and determine Matters; and when Judgment is given, it muſt ſtand, be it Right or Wrong.</hi>
+            </p>
+            <p>I anſwer, This is a Notorious Wicked Slander (added to his former Score, for which God will Reckon with him in his due time) For the Juſt God hath led this People to be Juſt in giving Judgment for him betwixt Man and Man, in ſuch Matters wherein they have been concerned; and of this they have the Teſtimony of the Good Spirit of God bearing Witneſs with their Spirits: And they alſo have a Teſtimony in the Conſciences of thoſe whom they have been concerned with in giving Judgment; and all falſe Judgment, Oppreſſion and Wrong is denyed and abhorred by them. And I have told him before, that there is not many Maſters, or Lords or <hi>Metropolitans</hi> amongſt us; but we have One Maſter and One Lord, Chriſt Jeſus: And though we own Elder<g ref="char:EOLhyphen"/>ſhip in the Truth, as the Primitive <hi>Chriſtians</hi> did; yet in that Elderſhip which is in Chriſt, the Head of the Body, of which we are Members, there is no Lordſhip, as he endeavours wickedly to inſinuate: For if one of the Leaſt or Youngeſt amongſt us be raiſed up of the Lord in his Wiſdom and Power, either as a publick Preacher of the Goſpel, or as a Help in Government, the Eldeſt amongſt us will not Oppoſe, Gain-ſay or Diſcourage him in what
+<pb n="13" facs="tcp:63881:7"/>the Lord doth require of him; but contrarywiſe, will cheriſh and encourage him in the Service of God: And thus both Younger and Elder have been, and now are a Joy, and Comfort, and Strength one to another in the Lord.</p>
+            <p>This Malicious Author proceeds in the page afore-ſaid to ſhew his En<g ref="char:EOLhyphen"/>mity againſt us, in belying of us concerning the Management of our Af<g ref="char:EOLhyphen"/>fairs, which doth relate to the Relieving of the Poor: he ſaith, <hi>The El<g ref="char:EOLhyphen"/>ders and Deacons muſt give Account who gives liberally towards the Relief of the Poor.</hi>
+            </p>
+            <p>I charge this upon him as an abſolute <hi>Lye;</hi> for there is no Perſon amongſt us required to give in that Account, but every one is leſt free, to give as the Lord hath enabled them, and as he opens their Hearts thereunto.</p>
+            <p>And he further ſaith, <hi>That the Money that the Elders and Deacons, &amp;c. have Over-plus or in Bank, they deliver to their Superiors.</hi>
+            </p>
+            <p>This is another Notorious Lye; for as I have told him before, There are not many Maſters, or Lords, or Superiors amongſt us; but One is our Lord, Maſter and Superior, Chriſt Jeſus; and that Mind is judged and denyed by us which would be greateſt; and we dearly own Chriſt's Doctrine, who ſaid, <hi>Who would be greateſt amongſt you, ſhall be your Servant;</hi> and who ſaid, <hi>Learn of me, for I am Meek and Lowly, and you ſhall find Reſt unto your Souls.</hi>
+            </p>
+            <p>This Author proceeds further in his Wickedneſs in the page afore-ſaid, in ſlandering of thoſe who have the diſpoſing of the Money which is given for the Relief of the Poor; ſaying, <hi>That if a Man of great Dealings in the World can keep a cloſe Correſpondency with ſuch, if he ſtands in need of One Hundred Pounds, or Two, more or leſs, he may have a Supply out of their Treaſury.</hi>
+            </p>
+            <p>This is a Slander, for we neither know nor own any ſuch Practice amongſt us, <hi>That the Money which is given for the Relief of the Poor, ſhould be put into great Traders Hands to get them great Eſtates or Advantages;</hi> But our Principle and Practice is, that that which is given for the Relief of the Poor, may be kept and improved for that Uſe (only) and diſtributed to them in the Wiſdom of God, as there is Occaſion.</p>
+            <p>This Author hath uttered many more Lyes and abuſive Expreſſions in this and the following page, againſt tho e whom G d hath raiſed up to take Care for the Relief of the Poor, which I ſhall paſs by at preſent.</p>
+            <p>In pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 19, 20. this Slandering Perſon rambles on according to his former Manner, telling how the People called <hi>Quakers ſend out their Dreadful Sen<g ref="char:EOLhyphen"/>tences of Excommunications againſt them that pry into their Secrets, and like them not, but oppoſes them; which</hi> (ſaith he) <hi>make ſuch a Noïſe and Ratling amongſt the People, as if it were one of the Pope's Bulls.</hi>
+            </p>
+            <pb n="14" facs="tcp:63881:8"/>
+            <p>
+               <hi>Anſw.</hi> Oh thou Scoffing <hi>Iſhmaelite!</hi> Here thou ſheweſt thy ſelf to be in the Brotherhood with our open Adverſaries and old Perſecutors, who have long talked at this rate againſt us, and made Lyes their Refuges againſt us, as thou doſt; and while they have been labouring to make People believe that we are <hi>Jeſuits, Papiſts,</hi> &amp;c. they have been acting Cruelty againſt us, for no Evil done by us unto any of them, but only for our Obedience unto the Lord our God; which Work of Cruelty and <hi>Perſecution</hi> of theirs, as one lately hath well obſerved, <hi>is one of the worſt Parts of Popery;</hi> as witneſs the Hypocritical Profeſſors Bloody Tragedy, in putting our Friends to Death in <hi>New-England.</hi>
+            </p>
+            <p>Here are many more Lyes in theſe two Pages, which for Brevity I may at this time paſs by: Yet there is one thing more in the 20th page, which I am not willing to paſs wholely in Silence, &amp; that is, This Author charges the Peo<g ref="char:EOLhyphen"/>ple call'd <hi>Quakers,</hi> with <hi>having bound themſelves with a Bond of Covetouſneſs,</hi> becauſe at ſome one time <hi>ſome among us may have refuſed an</hi> Apoſtate <hi>Liberty to lay his Dead in our Burying-Ground, who did, while he wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ked amongſt us, give ſomething towards the Purchaſe of the ſame.</hi>
+            </p>
+            <p>
+               <hi>Anſ</hi> It is certainly known to many, that both in City &amp; Country, the Bodys of ſeveral, both Men, Women and Children, who were not of us, have been laid in our Burying-Grounds, who never gave any thing to the Purchaſe of the ſame: And it is not our Principle nor Practice, to make Wives and Chil<g ref="char:EOLhyphen"/>dren ſuffer for their Fathers and Husbands ſuppoſed or real Iniquities, which this Malicious Author hath ſlanderouſly charged upon us; though a par<g ref="char:EOLhyphen"/>ticular Inſtance or Inſtances might be brought, that ſome amongſt us have refuſed ſome <hi>Apoſtate,</hi> or Apoſtates Liberty to bury their Dead amongſt us; and our Readineſs to give Liberty unto thoſe who are not of us, to bury their Dead in our Burying Grounds, who never gave any thing to the Purchaſe of the ſame, will clear us in the Sight of impartial and unprejudiced People, from his unjuſt Charge againſt us of <hi>Covetouſneſs</hi> in this Matter. And I do tell this ſlanderous Author, That if ſome Perſon or Perſons amongſt us, have refuſed an <hi>Apoſtate</hi> Liberty to Bury his Dead in our Grounds;<note place="margin">Though as I am credibly infor<g ref="char:EOLhyphen"/>med, ſuch an <hi>Apoſtate</hi> as this Au<g ref="char:EOLhyphen"/>thor may in end, had his Child laid in the <hi>Burying-ground</hi> which doth belong to the People (of God) called <hi>Quakers</hi> in <hi>London.</hi>
+               </note> this Denyal did not ariſe from <hi>Covetouſneſs,</hi> as he wickedly would inſinuate; but was done in Zeal, as a Teſtimony againſt ſuch an <hi>Apoſtate:</hi> And if the Body of the De<g ref="char:EOLhyphen"/>ceaſed Wife or Children, or other Relation of ſuch an <hi>Apoſtate</hi> have been refuſed to be laid in our Burying-Ground [only] at the ſaid <hi>Apoſtate</hi>'s Deſire, I ask this Author, What Suffering this Denyal can bring upon the Deceaſed Wife, Child, or other Relation of the afore-ſaid <hi>Apoſtate?</hi>
+            </p>
+            <pb n="15" facs="tcp:63881:8"/>
+            <p>In the 15th, 16th &amp; 17th pages this Uncharitable, Cavilling Buſie Body throws out his Slanders upon ſome of the Servants of Chriſt, who long have been and yet are a Bleſſing in the Hand of the Lord amongſt his People; he ſlanderouſly charges ſome ſuch amongſt us, who at firſt were raiſed up to de<g ref="char:EOLhyphen"/>clare the <hi>Eternal Truth</hi> (as he ſaith) <hi>to be Changed,</hi> or Apoſtatized, <hi>and by their Evil Example to have been Inſtrumental in leading the People called</hi> Qua<g ref="char:EOLhyphen"/>kers <hi>from their former Sincerity to God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> If the <hi>Father of Lyes,</hi> and old <hi>Accuſer of the Brethren,</hi> were not Head in him, then theſe Slanders would not proceed from him; But out of the Abundance of the Evil Treaſure, that the Evil One hath put into his Heart, he brings forth theſe Evil Things, for which the Juſt God will bring him to Judgment in his own due time: And tho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e whom he thus ſlanders and revi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es do in their Hearts deſire, that he, and ſuch as he, might find a time and place to Repent of all their Hard Speeches and Ungodly Deeds, which they have done and ſaid againſt the Lord and his People, that ſo they might obtain Forgiveneſs at the Hand of the Lord God.</p>
+            <p>This Uncharitable Caviller hath taken upen him to judge the Servants of the Lord concerning their <hi>Food</hi> and <hi>Raiment,</hi> which they do receive from the great Creator, who bleſſeth and ſanctifieth the ſame unto them by his Word and Power, which dwelleth in them. I do tell this Buſie Body in other mens Matters, That theſe men, whom he enviouſly accuſeth have received Wiſ<g ref="char:EOLhyphen"/>dom and Counſel from their Lord, Chriſt Jeſus, how to behave themſelves in his Church, both with reſpect to their <hi>Food</hi> and <hi>Raiment,</hi> and all thoſe other things wherein they are judged by him: I do on their behalf, as knowing them better then he doth, turn his Slanders back upon his own Head; and let him know, that both they and I do refuſe to learn of ſuch Envious Slande<g ref="char:EOLhyphen"/>rers, as he is: Glory to the Lord, we have a better Teacher. And I further tell him, that <hi>Pride in Apparel,</hi> and <hi>Exceſs in Eat<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Drinking,</hi> whe<g ref="char:EOLhyphen"/>ther Wines or other Liquors, with all Idle, Vain and Sinful Diſcourſe or Com<g ref="char:EOLhyphen"/>munications of what ſort ſoever, is at this da<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> denyed and witneſſed againſt by thoſe men upon whom he hath caſt his Slanders, both in their Doctrine, and alſo in their Lives and Converſations, as many Thou ands can witneſs; Glory to the Lord God for the ſame.</p>
+            <p>This Author begins in the 10th page to tell a long rambling Story concer<g ref="char:EOLhyphen"/>ning a <hi>Taylor</hi> and a <hi>Shoe-Maker,</hi> whom he calls <hi>Quakers;</hi> this Story laſts from the page afore-ſaid to the 14th page; and he calls this Story, <hi>A Dia<g ref="char:EOLhyphen"/>logue between a Taylor a Quaker,</hi> and <hi>a Shoe-Maker a Quaker;</hi> b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t he doth not tell us the Names of this <hi>Taylor</hi> and <hi>Shoe-Maker,</hi> nor where we may find them, and therefore we have Cauſe to ſuſpect, that it is (<hi>Thomas Hicks</hi>-like) a <hi>Dialogue</hi> of his own framing, to abuſe the People called <hi>Quakers</hi> with.</p>
+            <pb n="16" facs="tcp:63881:9"/>
+            <p>But if that which he ſpeaks in the <hi>Taylor</hi>'s and <hi>Shoe-Maker</hi>'s Name, be a Real Diſcourſe between a <hi>Taylor</hi> and a <hi>Shoe-Maker,</hi> who eſteem themſelves of that People who are called <hi>Quakers;</hi> then I tell him, That as God hath no Pleaſure in him that draws back, but in him that preſſes forward to the ſaving of the Soul; ſo the faithful People of God called <hi>Quakers,</hi> have no Pleaſure that this <hi>Taylor</hi> and <hi>Shoe-Maker,</hi> or any other, ſhould draw back from God into any Evil which God has once redeemed them out of; and when any that come amongſt us do go back into Evil, it is Cauſe of Grief unto us.</p>
+            <p>But if this was a Real Diſcourſe between a <hi>Taylor</hi> and a <hi>Shoe-Maker,</hi> who eſteemed themſelves of that People called <hi>Quakers;</hi> and that what thou haſt ſaid in their Name againſt the People called <hi>Quakers,</hi> was really their words; then I muſt tell thee, theſe men were nearer of Kindred to thee, &amp; ſuch as thou art, then to thoſe People; and I ſhall briefly endeavour to ſhew thee wherein.</p>
+            <p>In pag. 14, 15. thou ſpeakeſt thus in their Names, viz. <hi>I think I may ſpeak it between thee and I,</hi> ſaith the Taylor, <hi>There is much Lo<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ineſs and Pride a<g ref="char:EOLhyphen"/>mongſt Friends, as there is amongſt any Sect of Religion whatever:</hi> And thou makeſt the <hi>Shoe-maker</hi> to ſay, <hi>Yes, it is True.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> But I ſay it is <hi>Falſe</hi> and Slanderous, and Thouſands of the People called <hi>Quakers,</hi> and others, have a Teſtimony in their own Conſciences it is Falſe: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſo, if thou haſt ſpeaken Truth of the <hi>Taylor</hi> and the <hi>Shoe-Maker</hi> in this Matter, then we deny them and their Teſtimony in this Matter; and alſo teſtifie againſt their Back-ſliding, and do deſire that they may Repent, and do their Firſt Works, leſt God take them away in his Anger.</p>
+            <p>This Author begins another rambling airy Story much like to the former, in pag. 8. which ends the latter end of pag. 10. Though this is not called a <hi>Di<g ref="char:EOLhyphen"/>alogue,</hi> yet it is writ <hi>Dialogue-wiſe,</hi> like the other; they are ſo like one to the other, that they ſeem as though they had both one Father or Author, and whether this Author is the Author of one or both of them, is known to the Heart-ſearching God. The Story is concerning a <hi>Tradeſ-man</hi> or <hi>Shop-keeper,</hi> called a <hi>Quaker,</hi> and a Man of ſome other Profeſſion, this Author ſuggeſts, that the Perſon who is called a <hi>Quaker, did, when he came to the Knowledge of the Truth, deny for the Truth's ſake the ſelling of ſome <g ref="char:V">Ʋ</g>nlaw<g ref="char:EOLhyphen"/>ful or <g ref="char:V">Ʋ</g>nneceſſary Commodities;</hi> But he is not ſo honeſt and plain as to tell us, who this <hi>Shop-keeper</hi> is, or what thoſe <hi>Commodities</hi> are; yet he now char<g ref="char:EOLhyphen"/>ges it upon him, <hi>That he meeting with one of his old Cuſtomers, a Man of an<g ref="char:EOLhyphen"/>other Profeſſion, after they had ſaluted one another with a How d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt do? and How do you do, Sir, &amp;c. the ſaid Shop-keeper did ask his old Cuſtomer, What doſt want any of ſuch and ſuch Commodities? <g ref="char:V">Ʋ</g>pon which his old Cuſtomer</hi> (as this Author words it) <hi>anſwer'd, What do you ſell ſuch Goods again, Sir? And the other</hi> (as he ſaith) <hi>replyed, Yea, I think as good as ever thou ſaweſt.</hi>
+            </p>
+            <pb n="17" facs="tcp:63881:9"/>
+            <p>The Matter charged by this Author againſt this <hi>Shop-keeper</hi> is, <hi>That he now ſells again, for his Earthly Advantage, ſome <g ref="char:V">Ʋ</g>nlawful or <g ref="char:V">Ʋ</g>nneceſſary Commodities, which by the Power of God he was conſtrained to deny to ſell in former time.</hi>
+            </p>
+            <p>To this I anſwer, If it be really ſo, as thou ſayeſt, I ſay concerning him and all others in his State, as I ſaid before in the Caſe of the <hi>Taylor</hi> and the <hi>Shoe-Maker,</hi> that is, <hi>That as God hath no Pleaſure in thoſe that draw back towards Perdition, but delights that all ſhould preſs forward to the Salvation of their Souls; ſo God's faithful Remnant</hi> (in Scorn called <hi>Quakers</hi>) <hi>have no Plea<g ref="char:EOLhyphen"/>ſure in the <g ref="char:V">Ʋ</g>nfaithfulneſs or Back-ſliding of any that know and profeſs the Truth amongſt us:</hi> But our tender Breathings and Deſires are, That all that know and profeſs the Truth, may live and grow up in it, as Trees of Righ<g ref="char:EOLunhyphen"/>teouſneſs, bringing forth more and more Fruit to the Praiſe of the Lord God Almighty, who is worthy to be feared and ſerved in Faithfulneſs by all who have taſted how Good and how Gracious he is; to him be all Glory, Praiſes, Dominion and Honour, now and for evermore, <hi>Amen.</hi>
+            </p>
+            <p>In pag. 15. this Envious Author utters two Slanders againſt the People of God called <hi>Quakers;</hi> the firſt is, <hi>That if a man <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſt us lives poorly, though never ſo honeſtly, and ſtands in need of ſome Relief or Aſſiſtance from this Peo<g ref="char:EOLhyphen"/>ple, then this People pronounce hard Sentence againſt him, That he is not Faith<g ref="char:EOLhyphen"/>ful to God, and That he is Curſed in his Basket and in his Store, &amp;c. and That he hath little or no Part in the Kingdom of God.</hi>
+            </p>
+            <p>I anſwer, This is a Notorious Slander, proceeding from the Father of Lyes, as the Honeſt Upright hearted Poor People amongſt that People, both in <hi>London</hi> and in many Parts of <hi>England,</hi> can and will teſtifie; and as <hi>God hath made all Nations of one Blood to dwell upon the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ace of the whole Earth:</hi> We know, that an Upright, Honeſt-hearted, Poor Man and Woman, is as near and dear to the great God their Creator, and the Lord J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Chriſt, who has taſted Death for every man (<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Poor) as the Rich Man or Woman is: And with God there is no Reſpect of Perſons, becauſe of their Riches or Poverty (outwardly) as with reſpect to ſpiritual Rewards or Bleſſings upon their Immortal Souls; and as to the Lord, ſo they are to us the Lord knows, and our Practice teſtifies it.</p>
+            <p>The other Slander, which I purpoſe to ſpeakto, which is contained in this page, is; This ungodly Author ſaith, <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> now G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in amongſt the People called</hi> Quakers <hi>is accounted Godlineſs, that is</hi> (as he ſaith in the ſame page) <hi>A great Houſe, and Furniture, and Fulneſs of Corn, Wine and Oyl, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> I may ſay unto this Lying Tongue as a Man of God once ſaid, <hi>What ſhall be given thee, oh Lying Tongue? <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Coa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of Juniper:</hi> The Wrath of God is treaſured up againſt that Lying Spirit, which is thy Head, which God in his due time will pour forth upon it, which to it will be an endleſs Cup of Torment.</p>
+            <pb n="18" facs="tcp:63881:10"/>
+            <p>Now I ſhall come to ſpeak ſomething to the firſt page of this Author's Book, he begins to the People call'd <hi>Quakes</hi> thus, ſpeaking to them in general terms, ſaying, <hi>Before the Way of the Lord was manifeſted, your States and Conditions were miſerable, as to God-wards, living in Pride, Filthineſs and all manner of <g ref="char:V">Ʋ</g>ncleanneſs, in Covetouſneſs, Drunkenneſs, Swearing, Lying, Whoredom, Hypocriſie, Diſimulution, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Here he ſpeaks at Random, not like a Man ſent of God to judge and teach us; for he doth not Divide right, and therefore he is not the Lord's Mouth unto us: For though we ſhall readily confeſs, that <hi>we have all ſinned,</hi> ſome more, and ſome leſs, and ſo have all come ſhort of the Glory of God, and ſo our States were miſera<g ref="char:EOLhyphen"/>ble;<note n="*" place="margin">Though the Vail of Darkneſs and Ignorance long abode upon ſeveral of our Hearts, yet we can ſay, In that dark time the Lord God was near unto us, who by his pure Spirit kept us out of ſuch Groſs Evils, as this Unruly-tongu'd Author would caſt upon us; And in a deep Sence of the dear Love of God in preſerving us in that dark Time, we do in deep Humility give Glory unto him, for he is worthy.</note> yet that we generally (even in our moſt eſtranged ſtate from God) did live in all manner of Uncleanneſs, as he chargeth us, is utterly denyed by us; for many of us can ſay, as having God's Spirit bearing Witneſs to our Spirits to the Truth of what we ſay, <hi>That we were never guilty of divers things which he charges up<g ref="char:EOLhyphen"/>on us in general Terms.</hi> But had he been ſent of God to teach us, he would have diſtinguiſhed aright, as the holy Apoſtle did, who asked the Saints, ſaying, <hi>Know ye not that no Whoremonger, or Adulterer, or Covetous Man, who is an Idolater, &amp;c. hath any part in the Kingdom of God or of his Chriſt?</hi> and he ſaid unto them, <hi>Such were</hi> SOME <hi>of you:</hi> [Mark that] He did not ſay, they had all been ſuch, or that they had all lived in all mauner of Uncleanneſs.</p>
+            <p>To conclude with this Author at this time, I ſay, Though ſome profeſſing the Truth amongſt us, may, through their Unfaithfulneſs to God, have hel<g ref="char:EOLhyphen"/>ped to fill his Evil Heart with this Evil Treaſury, of whom he may have ſaid ſomething that is true in it ſelf (yet with &amp; in that bad Spirit, he will never make them better) Yet I tell him, there are many thouſands who are clear from his Accuſations, who have the Teſtimony of the Good Spirit of God bearing witneſs with their Spirits. <hi>that they are his Children,</hi> who are led by the ſpi<g ref="char:EOLhyphen"/>ritual Appearance of his Beloved Son. Chriſt Jeſus, out of their former Vain and Sinful Converſation; and who are upheld by him, that they do not draw back towards Perdition; but do daily wait upon him, and by the Ve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tue of his Power are preſſing forward to the perfect <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Immortal Souls: And as I have told him before, <hi>As God hath <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that draw back neither have his ſaithful People;</hi> But they are grieved with the <hi>Back-ſliding</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nfaithfulneſs</hi> of any who have Known Redemption by Chriſt Jeſus out of their Sins in any meaſure: And we do deſire, that ſuch
+<pb n="19" facs="tcp:63881:10"/>may haſten to ſeek a Place of Repentance, and that they may come to the doing of their Firſt Works, leſt God cut them off in his Anger. Some there are who came with us to taſte of the Heavenly Gift, and of the Power of that World which is without End, who are fallen away, and Apoſtatized from it, and are turned into Enmity againſt it, and againſt the deſpiſed Peo<g ref="char:EOLhyphen"/>ple called <hi>Quakers,</hi> who keep their Firſt Love to it, and Habitation in it: &amp; as thoſe are gone out from us, becauſe they were not of us; ſo likewiſe ſome few there may be, who may yet appear amongſt us, who being gone from that Pure Divine Life of Chriſt Jeſus, by which (alone) we are upheld to God, ſuch are not of us; and if they do not return unto the Lord by Unfeigned Repentance, them will the Lord reject, they being as the Salt which hath loſt its Savour, and as the withered Branches, who are ſeparated from Chriſt, the living Vine: And though ſome few are already gone out from us, and ſome ſuch may yet go, and add to the Number of the envious <hi>Apeſtates,</hi> of which Generation this envious ſlandering Author bears a great Reſemblance; yet the Work of the Lord amongſt the People called <hi>Quakers</hi> doth daily proſper; God hath the whole Body of Mankind to work upon; He that gave unto his Prophet the Viſion of the <hi>Valley full of Dry Bones,</hi> and gave him a Command <hi>to Propheſie unto them, and they ſtood up at his Command, and be<g ref="char:EOLhyphen"/>came an exceeding great Army;</hi> he is the ſame at this day as ever he was, whoſe Voice is crying through the Earth, and daily raiſing Deſires in fallen Man and Woman after himſelf; ſo that though here and there an Unfaithful Perſon full away from God, and ſo from Unity with his People, yet many more are raiſed up in their ſtead, and the Number of the Lamb's Followers are daily increaſed; for which the People of God called <hi>Quakers</hi> do give Glory, and Honour, and Praiſe unto him, whoſe Will is, <hi>That all men might know the Truth, and he ſaved: As I live, ſaith the Lord, I have no Pleaſure in the Death of him that dyeth; but that every one might turn from his Wicked<g ref="char:EOLhyphen"/>neſs, and live.</hi> And this Holy Pure God, who is a Fountain of Love and Life, gives a general Call and Invitation unto all the faln Sons and Daughters of <hi>Adam</hi> to come unto him, ſaying, <hi>Look unto me O all ye Ends of the Earth,</hi> AND BE YE SAVED; <hi>for I am God, and there is none elſe, a Mighty God, and a Saviour,</hi> Iſa. 45.22. 1 Tim. 2.1, 2, 3, 4.</p>
+            <p>This I have written in the Love of God, as a Teſtimony to the bleſſed Work which he has wrought and is daily working more and more in the hearts of his People in Scorn call'd <hi>Quakers;</hi> and as a juſt Rebuke to this ſcandalous Author. And I ſay, O that he, and all his Brethren, the Apoſtate, &amp; Enemies of the Lord Jeſus Chriſt, and his faithful Followers, might ſeek and find a P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace of Repentance. Oh! bleſſed will they be who turn from their Iniqui<g ref="char:EOLhyphen"/>ties while the Day of their Viſitation laſteth, even while the Spirit of the Lord God ſtrives with them, for is will not alwayes ſtrive with man</p>
+            <closer>
+               <signed>William Gibſon.</signed>
+               <dateline>London, <date>the 29th of the 9th Moneth, 16<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
